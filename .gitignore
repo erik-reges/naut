@@ -1,0 +1,9 @@
+.env
+db.py
+data
+databento
+catalogs
+.ropeproject
+.venv
+__pycache__
+.idea
